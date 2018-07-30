@@ -1,7 +1,7 @@
 # Data-Mining-class-project-on-R
 This is my DATA-MINING class final project (individual) that performing data analytics on R.
 
-IT 531 - Data Mining
+IT 531 - Data Mining /n
 Prof. Kasralikar
 Final Project
 Junhao Liao
